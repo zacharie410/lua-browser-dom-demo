@@ -43,7 +43,7 @@ local function onDOMLoaded()
         image = document:createElement("img"),
         score = 0,
     }
-    player.image.src = "player.png"
+    player.image.src = "asset/image/player.png"
 
     -- Define the item object
     local item = {
@@ -53,7 +53,7 @@ local function onDOMLoaded()
         height = 32,
         image = document:createElement("img")
     }
-    item.image.src = "item.png"
+    item.image.src = "asset/image/item.png"
 
     -- Add event listeners for arrow key presses
     document:addEventListener("keydown", function(_, key)
