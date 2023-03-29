@@ -52,7 +52,7 @@ The player's score increases by 1 each time they successfully dodge an item. If 
 The game also keeps track of the player's high score using local storage. The high score is displayed on the canvas. This is stored in `localStorage`
 
 ## 1.5. Dependencies
-The script uses the `fengari` library, which provides access to the DOM API in Lua. The library is included in the `cdn.jsdelivr.net/npm/fengari-web@0.1.4/dist/fengari-web.min.js` file, which is loaded in the index.html file.
+The script uses the `fengari` library, which provides access to the DOM API in Lua. The library is included in the `cdn.jsdelivr.net/npm/fengari-web@latest/dist/fengari-web.min.js` file, which is loaded in the index.html file.
 
 ## 1.6. License
 This project is licensed under the MIT License
