@@ -1,6 +1,13 @@
 # 1. Lua Browser DOM Demo
 This repository showcases a simple Lua script that uses the DOM (Document Object Model) API to manipulate the HTML page in the browser. The script can be run in any modern web browser that supports the Lua scripting language.
 
+## 1.1. Running the Demo
+You can try the demo live [here](https://zacharie410.github.io/lua-browser-dom-demo/) or you can clone the repository and run it locally:
+
+1. Clone the repository: git clone `https://github.com/zacharie410/lua-browser-dom-demo.git`
+2. Open the `index.html` file in a web browser.
+3. The script is included in the file and will be executed automatically when the page loads.
+
 ### Table of Contents
 
 - [1. Lua Browser DOM Demo](#1-lua-browser-dom-demo)
@@ -14,14 +21,6 @@ This repository showcases a simple Lua script that uses the DOM (Document Object
     - [1.4.3. High Score](#143-high-score)
   - [1.5. Dependencies](#15-dependencies)
   - [1.6. License](#16-license)
-
-
-## 1.1. Running the Demo
-You can try the demo live [here](https://zacharie410.github.io/lua-browser-dom-demo/) or you can clone the repository and run it locally:
-
-1. Clone the repository: git clone `https://github.com/zacharie410/lua-browser-dom-demo.git`
-2. Open the `index.html` file in a web browser.
-3. The script is included in the file and will be executed automatically when the page loads.
 
 ## 1.2. Background
 Lua is a powerful scripting language that has been around since the mid-1990s. It was originally designed to be a lightweight language for extending software applications, but it has since been used for a wide variety of purposes, including game development, web development, and general-purpose scripting.
